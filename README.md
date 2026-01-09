@@ -1,2 +1,2 @@
 # jarvis
- Made an tool like 'ALEXA' using python for the ptractice purpose of language python.
+Made a tool like 'Alexa' using Python for practice purposes.
